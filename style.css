@@ -126,3 +126,30 @@ p b {
 .post_r{
     float:right;
 }
+
+
+td{
+    color: white;
+}
+.t1 {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+.t2 {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+.t3 {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+}
+table {
+    border: 2px solid white;
+}
+
+td{
+    border: 2px solid white;
+}
